@@ -15,3 +15,18 @@ th,td{
     padding: 3px 10px;
     border-radius: 5px;
 }
+.section3_age{
+    margin-bottom: 15px
+}
+.section4_sort{
+    margin-bottom: 15px
+}
+.section4_sort button{
+    border: none;
+    margin-right: 10px;
+    padding: 5px 15px;
+    border-radius: 7px;
+}
+.sortButton_Active{
+    background-color:rgb(255, 178, 71);
+}
